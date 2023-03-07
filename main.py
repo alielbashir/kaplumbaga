@@ -10,7 +10,7 @@ def ucgen_ciz():
     kaplumbaga = turtle.Turtle()
     for i in range(3):
         kaplumbaga.forward(100)
-        kaplumbaga.right(90)
+        kaplumbaga.right(120)
 
 ucgen_ciz()
 # kare_ciz()
